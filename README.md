@@ -5,7 +5,6 @@
 
 The AI Translator App is a simple graphical user interface (GUI) application built using Python and the GTK library. It allows you to easily translate text using the Google Translate API. The app provides a user-friendly interface where you can enter the source text, select the target language, and view the translated text.
 
-![AI Translator App](screenshot.png)
 
 ## Features
 
@@ -35,7 +34,7 @@ git clone https://github.com/RajMaheshP/TranslatorAI
 2. Navigate to the project directory:
 
 ```bash
-cd TranslatorAI/src/main.py
+cd TranslatorAI/src/
 ```
 
 ## Usage
@@ -43,7 +42,7 @@ cd TranslatorAI/src/main.py
 Run the translator app using the following command:
 
 ```bash
-python translator_app.py
+python3 main.py
 ```
 
 ## How to Use
@@ -65,7 +64,7 @@ Contributions are welcome! If you find a bug or want to enhance the application,
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Acknowledgements
-
+- This is my project from Bhartintern
 - This app was created as a learning exercise using Python and GTK.
 - Thanks to the creators of the `googletrans` library for providing an easy-to-use translation API.
 
